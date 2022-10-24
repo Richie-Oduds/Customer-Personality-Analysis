@@ -1,0 +1,10 @@
+Marital_Status,AcceptedCmp1,AcceptedCmp2, AcceptedCmp3,AcceptedCmp4,AcceptedCmp5
+Absurd,1,0,0,0,1
+Alone,0,0,1,0,0
+Divorced,12,5,20,18,13
+Married,63,7,63,63,66
+Single ,31,5,38,33,31
+Together,32,12,37,43,44
+Widow,5,1,4,10,8
+YOLO,0,0,1,0,0
+Grand Total,144,30,164,167,163
